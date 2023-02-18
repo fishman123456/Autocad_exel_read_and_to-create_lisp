@@ -40,7 +40,8 @@ namespace Autocad_exel_read_and_to_create_lisp
         private void load_Click(object sender, RoutedEventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Filter = "EXCEL Files (*.xlsx)|*.xlsx|EXCEL Files 2003 (*.xls)|*.xls|All files (*.*)|*.*";
+            // меню загрузки, сначала все файлы
+            openFileDialog.Filter = "EXCEL Files (All files (*.*)|*.*|*.xlsx)|*.xlsx|EXCEL Files 2003 (*.xls)|*.xls)";
             if (openFileDialog.ShowDialog() != true)
                 return;
 
