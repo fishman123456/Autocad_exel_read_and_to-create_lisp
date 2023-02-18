@@ -1,0 +1,29 @@
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.exe
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.deps.json
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.runtimeconfig.json
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.pdb
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp_MarkupCompile.cache
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp_MarkupCompile.lref
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.g.resources
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.AssemblyInfoInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.AssemblyInfo.cs
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\refint\Autocad_exel_read_and_to create_lisp.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.pdb
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.genruntimeconfig.cache
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\ref\Autocad_exel_read_and_to create_lisp.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\Aspose.Cells.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\obj\Debug\net6.0-windows\Autocad_exel_read_and_to create_lisp.csproj.CopyComplete
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Fishman_1\Documents\GitHub\Autocad_exel_read_and_to create_lisp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocad_exel_read_and_to create_lisp", "Autocad_exel_read_and_to create_lisp.csproj", "{36176BFF-BF64-4F4B-BA60-8CB67FECE136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36176BFF-BF64-4F4B-BA60-8CB67FECE136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36176BFF-BF64-4F4B-BA60-8CB67FECE136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36176BFF-BF64-4F4B-BA60-8CB67FECE136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36176BFF-BF64-4F4B-BA60-8CB67FECE136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C8FBDF-2087-4D12-A830-AD4BF920C54F}
+	EndGlobalSection
+EndGlobal

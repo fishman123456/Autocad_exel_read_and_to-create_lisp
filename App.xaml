@@ -1,0 +1,9 @@
+﻿<Application x:Class="Autocad_exel_read_and_to_create_lisp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Autocad_exel_read_and_to_create_lisp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
