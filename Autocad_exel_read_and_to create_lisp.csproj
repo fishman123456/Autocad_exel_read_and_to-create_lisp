@@ -12,6 +12,7 @@
     <PackageReference Include="Aspose.Cells" Version="23.2.0" />
     <PackageReference Include="ExcelDataReader" Version="3.6.0" />
     <PackageReference Include="ExcelDataReader.DataSet" Version="3.6.0" />
+    <PackageReference Include="MacroView.VSTO.Excel" Version="4.0.0" />
     <PackageReference Include="System.Text.Encoding.CodePages" Version="7.0.0" />
   </ItemGroup>
 
