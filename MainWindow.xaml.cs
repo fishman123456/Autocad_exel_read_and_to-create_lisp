@@ -23,7 +23,7 @@ using System.Data;
 using System.IO;
 // дата создания 18.02.2023 время 8-23
 // https://blogadminday.ru/wpf-import-xls-xlsx-faylov/
-// пойду на лыжах кататься. нога болит пиии, гружа опять
+// пойду на лыжах кататься. нога болит пиии, грыжа опять
 namespace Autocad_exel_read_and_to_create_lisp
 {
     /// <summary>
