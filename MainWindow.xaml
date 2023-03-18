@@ -8,7 +8,7 @@
         Title="U83_F" Height="450" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="25*"/>
             <ColumnDefinition Width="100*"/>
             <ColumnDefinition Width="25*"/>
         </Grid.ColumnDefinitions>
@@ -17,12 +17,14 @@
             <RowDefinition Height="250*"/>
             <RowDefinition Height="50*"/>
         </Grid.RowDefinitions>
-        <Button Name="load" Content="load_exel" FontSize="20" Grid.Column="3" Grid.Row="3" Margin="10" Click="load_Click"/>
+        <Button Name="load" Content="load_exel" FontSize="20" Grid.Column="0" Grid.Row="2" Margin="10" Click="load_Click"/>
+        <Button Name="btnExportExcel" Content="ExportExcel" FontSize="20" Grid.Column="2" Grid.Row="2" Margin="10" Click="btnExportExcel_Click" />
         <!--TextBox Name="text_name_ex" FontSize="12" Grid.ColumnSpan="2" Grid.Row="0" Margin="10"/-->
         <DataGrid x:Name="DbGrig" 
                   Grid.ColumnSpan="3" Grid.RowSpan="2"
                   ItemsSource="{Binding}"                  
                   Margin="10"  
                   />
+        
     </Grid>
 </Window>
